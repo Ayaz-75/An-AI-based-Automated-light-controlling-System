@@ -4,7 +4,7 @@
 1- YoloV3,
 2- cv2,
 3- PIL,
-4- Arduino UNO (Soft),
+4- pyfirmata (Arduino UNO),
 5- numpy,
 6- random,
 7- os,
