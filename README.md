@@ -1,6 +1,6 @@
 # An-AI-based-Automated-light-controlling-System Requirements
 
-######### Software requirements #########
+# Software requirements
 1- YoloV3
 2- cv2
 3- PIL
