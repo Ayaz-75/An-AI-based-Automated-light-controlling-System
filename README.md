@@ -8,8 +8,6 @@
 5- numpy,
 6- random,
 7- os,
-8- twilio.rest,
-9- smtplib
 
 # Hardware requirements
 1- Arduino UNO,
